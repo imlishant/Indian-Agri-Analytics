@@ -4,6 +4,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+## Install react IF NOT INSTALLED
+
+```bash
+yarn add react
+```
+
+## Then initialise CRA in the current folder using this command:
+
+```bash
+npx create-react-app . --template typescript
+```
+
 In the project directory, you can run:
 
 ### `yarn start`
